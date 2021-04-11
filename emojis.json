@@ -1,0 +1,32 @@
+{
+	"info": {
+		"emoji": "<:754410203084226621:768168001987543041>",
+		"id": "768168001987543041",
+		"url": "https://cdn.discordapp.com/emojis/768168001987543041.png"
+	},
+	"no": {
+		"emoji": "<:744543904870694952:768167999588007977>",
+		"id": "768167999588007977",
+		"url": "https://cdn.discordapp.com/emojis/768167999588007977.png"
+	},
+	"yes": {
+		"emoji": "<:2942_Check:798183133810917406>",
+		"id": "798183133810917406",
+		"url": "https://cdn.discordapp.com/emojis/798183133810917406.png"
+	},
+	"warning": {
+		"emoji": "<a:9876_attention:768167981729185792>",
+		"id": "768167981729185792",
+		"url": "https://cdn.discordapp.com/emojis/768167981729185792.gif"
+	},
+	"cmd": {
+		"emoji": "<:cmd:799687207647445014>",
+		"id": "799687207647445014",
+		"url": "https://cdn.discordapp.com/emojis/799687207647445014.png"
+	},
+	"discord_loading": {
+		"emoji": "<a:discord_loading:799747766875717642>",
+		"id": "799747766875717642",
+		"url": "https://cdn.discordapp.com/emojis/799747766875717642.gif"
+	}
+}

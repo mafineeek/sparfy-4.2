@@ -1,0 +1,18 @@
+
+{
+	"menago": "twój token do menago",
+	"prefix": ";",
+	"owners": ["493119070032363541", "512230433782497281", "774029171743260704"],
+	"adChecking": "822201357993902081",
+	"main": "#a606d6",
+	"error": "#ff0000",
+	"channelName": "📨・sparfy_reklamy",
+	"notflicationsChannel": "822209723701002292",
+	"support": {
+		"id": "822199451279032400",
+		"invite": "https://discord.gg/tN37DzJKuF",
+		"verifyRole": "822201265886855181"
+	},
+	"url": "https://sparfy.eu",
+	"port": 8080
+}
